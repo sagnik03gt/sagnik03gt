@@ -1,4 +1,4 @@
-<img align="right" alt="Coding" height="250" width="1000" src="Blue and White Architect LinkedIn Banner (1).png"/>
+<img align="right" alt="Coding" width="1000" src="Blue and White Architect LinkedIn Banner (1).png"/>
 
 <h1 align="center">Hi 👋, I'm Sagnik Roy</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
