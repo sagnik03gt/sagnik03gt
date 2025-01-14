@@ -9,9 +9,9 @@
 
 <p align="left"> <a href="https://twitter.com/sagnik roy" target="blank"><img src="https://img.shields.io/twitter/follow/sagnik roy?logo=twitter&style=for-the-badge" alt="sagnik roy" /></a> </p>
 
-- 🔭 I’m currently working on [CARE_CONNECT](https://github.com/sagnik03gt/CareConnect)
+- 🔭 I’m currently working on TCS,Location: Mumbai
 
-- 🌱 I’m currently learning **REACT**
+- 🌱 I’m currently learning **Spring Boot**
 
 - 📫 How to reach me **rsagnik58@gmail.com**
 
